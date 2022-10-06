@@ -7,5 +7,6 @@ Kullanabileceğimiz kütüphanelerin dokümanları:
 3) TensorFlow/Keras (Derin Öğrenme): https://www.tensorflow.org/api_docs/python/tf
 
 Veri seti: https://urbansounddataset.weebly.com/urbansound8k.html
+
 Spectogram: https://drive.google.com/drive/folders/1xey3vAVNDjWxnSfhuUsf_5dGANZWmCog?usp=sharing
 
