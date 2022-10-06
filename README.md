@@ -1,5 +1,7 @@
 # Koç Holding Derin Öğrenme Bootcamp
 
+20.Grup Takım 3
+
 Kullanabileceğimiz kütüphanelerin dokümanları:
 
 1) Librosa (Ses İşleme): https://librosa.org/doc/latest/index.html
